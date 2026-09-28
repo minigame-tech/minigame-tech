@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="https://minigame-tech.github.io">🌐 Sito</a> ·
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=codelab.italia@gmail.com&su=Contatto%20dal%20sito">✉️ Scrivimi su Gmail</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=codelab.italia@gmail.com&su=Contatto%20dal%20sito">✉️ Scrivimi su Gmail</a> ·
+  <a href="https://www.instagram.com/salvo_codes">📸 Instagram</a>
 </p>
 
 ---
@@ -57,6 +58,14 @@ minigiochi e cloni di classici arcade, con download degli eseguibili.
 - Architettura software e backend
 
 ---
+
+## 🌍 Social
+
+<p align="center">
+  <a href="https://www.instagram.com/salvo_codes">
+    <img src="https://img.shields.io/badge/Instagram-salvo__codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram salvo_codes" />
+  </a>
+</p>
 
 ## 📬 Contatti
 
