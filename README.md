@@ -1,76 +1,85 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=160&section=header&text=Ciao,%20sono%20Salvatore&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Salvatore%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Sviluppatore+Python;Creo+minigiochi+arcade;Appassionato+di+Linux+e+database" alt="Presentazione animata" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea043&center=true&vCenter=true&width=550&lines=Python+Developer;Sviluppo+di+Applicazioni+Desktop;Appassionato+di+Sistemi+Linux+e+Database" alt="Presentazione animata" />
 </p>
 
 <p align="center">
-  Studente e sviluppatore. Creo minigiochi in Python e li distribuisco come eseguibili.<br>
-  Mi interessano C/C++/C#, database e Linux.
+  Studente e sviluppatore software orientato alla creazione di soluzioni efficienti e scalabili.<br>
+  Attualmente mi dedico allo sviluppo di applicazioni desktop, con un focus sulla ricreazione di logiche arcade in Python, distribuite come eseguibili stand-alone per sistemi operativi multipli.
 </p>
 
 <p align="center">
-  <a href="https://minigame-tech.github.io">🌐 Sito</a> ·
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=codelab.italia@gmail.com&su=Contatto%20dal%20sito">✉️ Scrivimi su Gmail</a> ·
-  <a href="https://www.instagram.com/salvo_codes">📸 Instagram</a>
+  <a href="https://minigame-tech.github.io"><img src="https://img.shields.io/badge/🌐_Sito_Web-minigame--tech-2ea043?style=flat-square" alt="Sito Web" /></a>
+  <a href="mailto:codelab.italia@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-Contattami-D14836?style=flat-square" alt="Email" /></a>
+  <a href="https://www.instagram.com/salvo_codes"><img src="https://img.shields.io/badge/📸_Instagram-salvo__codes-E4405F?style=flat-square" alt="Instagram" /></a>
 </p>
 
 ---
 
-## 🎮 Cosa sto costruendo
+## 🚀 Progetti in Evidenza
 
-**[minigame-tech.github.io](https://minigame-tech.github.io)** è una raccolta di
-minigiochi e cloni di classici arcade, con download degli eseguibili.
+**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente da zero e pacchettizzati per la distribuzione diretta all'utente finale.
 
 <p align="center">
-  <img src="assets/frogger.gif" width="300" alt="Frogger in azione" />
-  &nbsp;&nbsp;
-  <img src="assets/pacman.gif" width="300" alt="Pacman in azione" />
+  <img src="assets/frogger.gif" width="300" alt="Gameplay Frogger" style="border-radius: 8px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/pacman.gif" width="300" alt="Gameplay Pacman" style="border-radius: 8px;"/>
 </p>
 
-| Gioco   | Stato     | Linux | Windows |
-|---------|-----------|:-----:|:-------:|
-| Frogger | ✅ Online | ✅    | ✅      |
-| Pacman  | ✅ Online | ✅    | ❌      |
+| Software | Piattaforme Supportate | Stato di Sviluppo | Tecnologie Utilizzate |
+| :--- | :---: | :---: | :--- |
+| **Frogger Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | Python, Pygame, PyInstaller |
+| **Pacman Clone** | 🐧 Linux | 🟢 Rilasciato | Python, Pygame |
 
-**In arrivo**
-- [ ] Space Invaders, Donkey Kong, Tetris, Snake, 2048
-- [ ] Versione Windows di Pacman
-- [ ] Primi minigiochi originali (non più cloni)
-- [ ] Restyling completo del sito, con pagina dedicata alla lista dei giochi
+### 🛤️ Roadmap e Sviluppi Futuri
+- [ ] Compilazione e ottimizzazione di Pacman per ambiente Windows.
+- [ ] Progettazione e implementazione di nuovi engine per: *Space Invaders, Donkey Kong, Tetris, Snake, 2048*.
+- [ ] Transizione da "cloni arcade" alla progettazione di titoli e logiche di gioco originali.
+- [ ] Refactoring architetturale del sito web vetrina per ottimizzare l'indicizzazione e la user experience.
 
 ---
 
-## 🛠️ Stack
+## 💻 Competenze Tecniche e Stack
 
-| Ambito       | Tecnologie                         |
-|--------------|------------------------------------|
-| Linguaggi    | Python, C, C++, C#, Java           |
-| Web          | HTML, CSS, GitHub Pages            |
-| Database     | SQLite                             |
-| Editor / IDE | VS Code, JetBrains Rider, DataGrip |
-| Ambiente     | Fedora Workstation (Linux)         |
+**Linguaggi di Programmazione**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 📚 Su cosa sto lavorando
+**Web & Database**<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- Linguaggi della famiglia C e sviluppo software strutturato
-- Progettazione e gestione di database
-- Architettura software e backend
+**Strumenti di Sviluppo & OS**<br>
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌍 Social
+## 📈 Focus e Aree di Studio Attuali
 
-<p align="center">
-  <a href="https://www.instagram.com/salvo_codes">
-    <img src="https://img.shields.io/badge/Instagram-salvo__codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram salvo_codes" />
-  </a>
-</p>
+Dedico il mio tempo libero allo studio continuo per migliorare la qualità del software che scrivo. Attualmente sto approfondendo:
 
-## 📬 Contatti
+* **Sviluppo Software Strutturato:** Studio avanzato della famiglia di linguaggi C (C, C++, C#) per comprendere a fondo la gestione della memoria e le performance.
+* **Ingegneria dei Dati:** Progettazione, normalizzazione e ottimizzazione di database relazionali.
+* **Architettura di Sistema:** Principi di progettazione backend e architetture scalabili su ambienti Linux.
 
-- ✉️ Email: [codelab.italia@gmail.com](mailto:codelab.italia@gmail.com)
-- ✉️ Scrivimi direttamente da Gmail: [apri nuovo messaggio](https://mail.google.com/mail/?view=cm&fs=1&to=codelab.italia@gmail.com&su=Contatto%20dal%20sito)
-- 🌐 Sito: [minigame-tech.github.io](https://minigame-tech.github.io)
+---
+
+## 📫 Rete Professionale e Contatti
+
+Sei interessato ai miei progetti o vuoi scambiare due chiacchiere su programmazione e Linux? Sentiti libero di contattarmi:
+
+- ✉️ **Email:** [codelab.italia@gmail.com](mailto:codelab.italia@gmail.com)
+- 🌐 **Portfolio/Sito:** [minigame-tech.github.io](https://minigame-tech.github.io)
+- 📸 **Instagram:** [@salvo_codes](https://www.instagram.com/salvo_codes)
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=100&section=footer" width="100%" alt="Footer" />
