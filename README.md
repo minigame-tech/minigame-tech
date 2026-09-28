@@ -1,37 +1,52 @@
-# Ciao, sono Salvatore 👋
+<h1 align="center">Ciao, sono Salvatore 👋</h1>
 
-Sono un appassionato di informatica e sviluppo software. Attualmente sto lavorando al progetto [**minigame-tech.github.io**](https://minigame-tech.github.io?utm_source=gemini).
+<p align="center">
+  Studente e sviluppatore. Creo minigiochi in Python e li distribuisco come eseguibili.<br>
+  Mi interessano C/C++/C#, database e Linux.
+</p>
 
-### 👨‍💻 Chi sono
+<p align="center">
+  <a href="https://minigame-tech.github.io">🌐 Sito</a> ·
+  <a href="mailto:codelab.italia@gmail.com">✉️ Email</a>
+</p>
 
-* 🔭 **Progetto attuale:** Sviluppo e manutenzione di [minigame-tech.github.io](https://minigame-tech.github.io?utm_source=gemini).
+---
 
-* 🎓 **Focus:** Approfondimento dei linguaggi della famiglia C, orientati allo sviluppo efficiente, e gestione avanzata dei Database.
+## 🎮 Cosa sto costruendo
 
-* 💻 **Sistema Operativo:** Utilizzo **Fedora Workstation** come ambiente di lavoro principale.
+**[minigame-tech.github.io](https://minigame-tech.github.io)** è una raccolta di
+minigiochi e cloni di classici arcade, con download degli eseguibili.
 
-* 💬 **Interessi:** Architettura software, sistemi operativi Linux, sviluppo backend e web.
+| Gioco   | Stato     | Linux | Windows |
+|---------|-----------|:-----:|:-------:|
+| Frogger | ✅ Online | ✅    | ✅      |
+| Pacman  | ✅ Online | ✅    | ❌      |
 
-### 💻 Tech Stack & Competenze
+**In arrivo**
+- [ ] Space Invaders, Donkey Kong, Tetris, Snake, 2048
+- [ ] Versione Windows di Pacman
+- [ ] Primi minigiochi originali (non più cloni)
+- [ ] Restyling completo del sito, con pagina dedicata alla lista dei giochi
 
-#### Linguaggi di Programmazione & Database
+---
 
-* Python
+## 🛠️ Stack
 
-* C, C++, C#
+| Ambito       | Tecnologie                        |
+|--------------|-----------------------------------|
+| Linguaggi    | Python, C, C++, C#, Java          |
+| Web          | HTML, CSS, GitHub Pages           |
+| Database     | SQLite                            |
+| Editor / IDE | VS Code, JetBrains Rider, DataGrip|
+| Ambiente     | Fedora Workstation (Linux)        |
 
-* Java
+## 📚 Su cosa sto lavorando
 
-* HTML e CSS
+- Linguaggi della famiglia C e sviluppo software strutturato
+- Progettazione e gestione di database
+- Architettura software e backend
 
-#### Strumenti & Ambiente di Lavoro
+## 📬 Contatti
 
-* 💻 **Sistema Operativo:** **Fedora Workstation**
-
-* IDE: VS Code, JetBrains Rider
-
-### 📬 Contatti
-
-* ✉️ **Email:** [codelab.italia@gmail.com](mailto:codelab.italia@gmail.com)
-
-* 🌐 **Sito Web:** [minigame-tech.github.io](https://minigame-tech.github.io?utm_source=gemini)
+- Email: [codelab.italia@gmail.com](mailto:codelab.italia@gmail.com)
+- Sito: [minigame-tech.github.io](https://minigame-tech.github.io)
