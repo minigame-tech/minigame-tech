@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Salvatore%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Salvatore%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea043&center=true&vCenter=true&width=550&lines=Python+Developer;C%23+Developer;Sviluppo+di+Applicazioni+Desktop;Appassionato+di+Arcade+Classici" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea043&center=true&vCenter=true&width=550&lines=Python+Developer;C%23+Developer;Sviluppo+di+Applicazioni+Desktop" alt="Typing Animation" />
 </p>
 
 <p align="center">
   Studente e sviluppatore software orientato alla creazione di soluzioni efficienti e scalabili.<br>
-  Appassionato di Python e C#, mi dedico allo sviluppo di applicazioni desktop robuste, con un focus sulla ricreazione di logiche arcade in Python, distribuite come eseguibili stand-alone per sistemi operativi multipli, e su soluzioni enterprise con C#.
+  Appassionato di Python e C#, mi dedico allo sviluppo di applicazioni desktop robuste, con un focus sulla ricreazione di logiche arcade in Python, distribuite come eseguibili stand-alone per sistemi Windows e Linux.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 Progetti in Evidenza
 
-**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente da zero utilizzando Python e Pygame, con distribuzione cross-platform tramite PyInstaller.
+**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente in Python, ottimizzati per le piattaforme Linux e Windows.
 
 <p align="center">
   <img src="assets/frogger.gif" width="300" alt="Gameplay Frogger" style="border-radius: 8px;"/>
@@ -72,6 +72,15 @@ Dedico il mio tempo libero allo studio continuo per migliorare la qualità del s
 * **Ingegneria dei Dati:** Progettazione, normalizzazione e ottimizzazione di database relazionali.
 * **Architettura di Sistema:** Principi di progettazione backend e architetture scalabili su ambienti Linux e Windows.
 * **Sviluppo Enterprise con C# e .NET:** Creazione di applicazioni desktop e web robuste, scalabili e ad alte performance.
+
+---
+
+## 📊 Statistiche GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minigame-tech&show_icons=true&theme=github_dark&hide_border=true&title_color=8957e5&icon_color=8957e5" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minigame-tech&layout=compact&theme=github_dark&hide_border=true&title_color=8957e5" height="160" alt="Top Languages" />
+</p>
 
 ---
 
