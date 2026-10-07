@@ -31,10 +31,9 @@
 | :--- | :---: | :---: | :--- |
 | **Frogger Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | Python, Pygame, PyInstaller |
 | **Pacman Clone** | 🐧 Linux | 🟢 Rilasciato | Python, Pygame |
+| **Space Invaders Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C# |
 
 ### 🛤️ Roadmap e Sviluppi Futuri
-- [ ] Compilazione e ottimizzazione di Pacman per ambiente Windows.
-- [ ] Progettazione e implementazione di nuovi engine per: *Space Invaders, Donkey Kong, Tetris, Snake, 2048*.
 - [ ] Transizione da "cloni arcade" alla progettazione di titoli e logiche di gioco originali.
 - [ ] Refactoring architetturale del sito web vetrina per ottimizzare l'indicizzazione e la user experience.
 - [ ] Sviluppo di applicazioni desktop enterprise con C# e .NET Framework.
