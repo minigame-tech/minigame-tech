@@ -19,7 +19,7 @@
 
 ## 🚀 Progetti in Evidenza
 
-**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente in Python, ottimizzati per le piattaforme Linux e Windows.
+**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente in Python e C#, ottimizzati per le piattaforme Linux e Windows.
 
 <p align="center">
   <img src="assets/frogger.gif" width="300" alt="Gameplay Frogger" style="border-radius: 8px;"/>
