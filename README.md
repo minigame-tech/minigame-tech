@@ -31,7 +31,8 @@
 | :--- | :---: | :---: | :--- |
 | **Frogger Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | Python, Pygame, PyInstaller |
 | **Pacman Clone** | 🐧 Linux | 🟢 Rilasciato | Python, Pygame |
-| **Space Invaders Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C# |
+| **Space Invaders Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C#, RayLib-cs |
+| **Tetris** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C#, RayLib-cs |
 
 ### 🛤️ Roadmap e Sviluppi Futuri
 - [ ] Transizione da "cloni arcade" alla progettazione di titoli e logiche di gioco originali.
