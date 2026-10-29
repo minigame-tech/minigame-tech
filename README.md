@@ -29,15 +29,14 @@
 
 | Software | Piattaforme Supportate | Stato di Sviluppo | Tecnologie Utilizzate |
 | :--- | :---: | :---: | :--- |
-| **Frogger Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | Python, Pygame, PyInstaller |
-| **Pacman Clone** | 🐧 Linux | 🟢 Rilasciato | Python, Pygame |
-| **Space Invaders Clone** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C#, RayLib-cs |
+| **Frogger** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | Python, Pygame, PyInstaller |
+| **Pacman** | 🐧 Linux | 🟢 Rilasciato | Python, Pygame |
+| **Space Invaders** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C#, RayLib-cs |
 | **Tetris** | 🐧 Linux / 🪟 Windows | 🟢 Rilasciato | C#, RayLib-cs |
 
 ### 🛤️ Roadmap e Sviluppi Futuri
 - [ ] Transizione da "cloni arcade" alla progettazione di titoli e logiche di gioco originali.
 - [ ] Refactoring architetturale del sito web vetrina per ottimizzare l'indicizzazione e la user experience.
-- [ ] Sviluppo di applicazioni desktop enterprise con C# e .NET Framework.
 
 ---
 
