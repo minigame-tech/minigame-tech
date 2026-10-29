@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Salvatore%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=150&section=header&text=Salvatore%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea043&center=true&vCenter=true&width=550&lines=Python+Developer;C%23+Developer;Sviluppo+di+Applicazioni+Desktop" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea043&center=true&vCenter=true&width=550&lines=Python+Developer;C%23+Developer;Sviluppo+di+Applicazioni+Desktop;Linux+Enthusiast;Game+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Studente e sviluppatore software orientato alla creazione di soluzioni efficienti e scalabili.<br>
-  Appassionato di Python e C#, mi dedico allo sviluppo di applicazioni desktop robuste, con un focus sulla ricreazione di logiche arcade in Python, distribuite come eseguibili stand-alone per sistemi Windows e Linux.
+  Appassionato di Python e C#, mi dedico allo sviluppo di applicazioni desktop robuste, con un focus sulla ricreazione di logiche arcade in Python, distribuite come eseguibili stand-alone per sistemi Linux e Windows.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 Progetti in Evidenza
 
-**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente in Python e C#, ottimizzati per le piattaforme Linux e Windows.
+**[MiniGame Tech](https://minigame-tech.github.io)** è il mio hub principale di sviluppo. Si tratta di una raccolta di software desktop (giochi e cloni di classici arcade) sviluppati interamente in Python e C#.
 
 <p align="center">
   <img src="assets/frogger.gif" width="300" alt="Gameplay Frogger" style="border-radius: 8px;"/>
@@ -77,8 +77,11 @@ Dedico il mio tempo libero allo studio continuo per migliorare la qualità del s
 ## 📊 Statistiche GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minigame-tech&show_icons=true&theme=github_dark&hide_border=true&title_color=8957e5&icon_color=8957e5" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minigame-tech&layout=compact&theme=github_dark&hide_border=true&title_color=8957e5" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minigame-tech&show_icons=true&theme=github_dark&hide_border=true&title_color=8957e5&icon_color=8957e5&count_private=true" height="180" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minigame-tech&layout=compact&theme=github_dark&hide_border=true&title_color=8957e5" height="180" alt="Top languages" />
 </p>
 
 ---
